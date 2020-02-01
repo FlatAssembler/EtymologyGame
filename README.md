@@ -1,7 +1,7 @@
 # EtymologyGame
 A web-game about historical linguistics.
 
-This is a web-game that simulates phonological developments of two related imaginary languages and makes tasks based on that. It can be seen live here: http://flatassembler.000webhostapp.com/etymologist.html
+This is a web-game that simulates phonological developments of two related imaginary languages and makes tasks based on that. It can be seen live here: http://flatassembler.github.io/etymologist.html
 
 "etymologist.html" uses JQuery, advanced CSS and basic SVG to create a graphic interface, but it, of course, doesn't work in all browsers.
 
