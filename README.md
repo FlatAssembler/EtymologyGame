@@ -5,6 +5,10 @@ This is a web-game that simulates phonological developments of two related imagi
 
 `etymologist.html` uses JQuery, advanced CSS and basic SVG to create a graphic interface, but it, of course, doesn't work in all browsers.
 
+Here are some screen-shots of `etymologist.html` run in a capable browser:
+
+<img src="Etymology_Game_Part_1.png" width="300"> <img src="Etymology_Game_explanation_of_Part_2.jpg" width="300"> <img src="Etymology_Game_Part_2.png" width="300"> <img src="Etymology_Game_Part_3.png" width="300">
+
 `etymology.html` creates a text-based interface, and it works in browsers which don't support advanced web-technologies, such as Internet Explorer 6 and NetSurf.
 
 `etymology_dataset.json` is a JSON file containing real-world data about the names of numbers in various languages, taken from [Wikipedia](https://en.wikipedia.org/wiki/List_of_numbers_in_various_languages).
